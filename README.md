@@ -2,8 +2,8 @@
 Course Assignments and labs For EECS2030 
 
     Did significantly well in the class, assignments should be in order. 
-    
-    Please try it yourself before you see the solutions !!
+     
+  #### Please try it yourself before you see the solutions !! 
 
 
   
